@@ -1,6 +1,6 @@
 function algebra() {
     var one = document.getElementById('text1').value;
-    let a = parseFloat(one)
+    let a = parseFloat(one);
     var two = document.getElementById('text2').value;
     let b = parseFloat(two);
     var sum = a + b;
